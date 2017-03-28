@@ -1,4 +1,9 @@
 /* Student Number & Name: 20140679 Jae Sung Kim */
+/* 
+	 In order to compile, type "./compile.sh" on your terminal. main.cpp and compile.sh should be in same folder.
+	 If compile.sh is not willing to be executed, "chmod 700 compile.sh" first. 
+	 Run the executable by "./a.out" and you'll get output.txt which is result file. 
+*/
 #include <iostream>
 #include <fstream>
 #include <string>
