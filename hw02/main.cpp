@@ -57,7 +57,7 @@ int main() {
   	<< "\t"
   	<< s4(temp_x).to_string()
   	<< "\t"
-  	<< (s4(temp_x)^s4(temp_x^temp)).to_string()
+  	<< s4(temp_x^temp).to_string()
   	<< "\t\t\t\t"
   	<< s4_diff(temp_x)
   	<< "\t\t\t\t\t"
