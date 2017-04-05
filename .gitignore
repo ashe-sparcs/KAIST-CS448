@@ -1,2 +1,4 @@
 *.out
 output.txt
+.DS_Store
+venv
